@@ -1,0 +1,101 @@
+Project.Title,Project.Technologies,Technical_Skillset.Frontend,Technical_Skillset.Backend,Technical_Skillset.Databases,Technical_Skillset.Infrastructre
+Project 1,"Python, HTML, CSS, Machine Learning, Deep Learning","HTML, CSS, JavaScript",Python,,
+Project 2,"Java Spring Boot, Hibernate, MySQL",React JS,"Java, Spring Boot, Hibernate",MySQL,Not specified
+Project 3 ,"Java, HTML, CSS, JavaScript","React, HTML, CSS","Java, Python Django, Flask","MySQL, MongoDB, Postgres","AWS, Azure OCR, Apache, Docker"
+Project 4,"Websockets, Redis, Channel layers",React,"Python Django, Django Rest",MySQL,Not Mentioned
+Project 5,"Python, Scrapy framework, MongoDB",React Native,"Python, Django",MongoDB,Not Specified
+Project 6,"Postman, Docker, Jenkins, Java, Spring Boot","React, Angular","Spring Boot, Java",,"Postman, Docker, Jenkins"
+Project 7,"React JS, JWT Authentication, Local Storage","React JS, HTML, CSS, JavaScript",Node JS,MongoDB,Not Mentioned
+Project 8,"Python, Django, API",No experience,"Python Django, API",Not mentioned,Not mentioned
+Project 9,"React, Node, Java","React, Java, Angular, Node, JavaScript",Node,SQL,
+Project 10,"React JS, Redux, HTML, CSS, Bootstrap, Material UI, Socket.io, Python Django","React JS, HTML, CSS, Bootstrap, Material UI",Python Django,,
+Project 11,"React JS, Node JS, TNT database","HTML, CSS, JavaScript, React JS",Node JS,"SQL, TNT",Not mentioned
+Project 12,"React JS, Mongo DB, MVC architecture",React JS,Mongo DB,Mongo DB,Not mentioned
+Project 13,"Python, Java, Redis, caching, pagination, liquibase","React, Next js",Python Django and Spring frameworks,Not Specified,Not Specified
+Project 14,"Python, AWS, JavaScript, Node JS, Docker","Angular, JavaScript, TypeScript","Python, Java, Node JS, AWS Lambda functions",SQL,"Docker, AWS"
+Project 15,"Java, Spring Framework",React,"Python, Django, Java, Spring Framework",Not Mentioned,Not Mentioned
+Project 16,"SQL, Cloud, Ecommerce, Haru, Spoke","React, Angular, Next.js","SQL, MySQL, Oracle, Java, NoSQL","SQL, MySQL, Oracle, NoSQL",Cloud platforms
+Project 17,"HTML, CSS, Node.js, SQL, MongoDB","HTML, CSS, React",Node.js,"SQL, MongoDB",Not Mentioned
+Project 18,"Java, Spring Boot, Angular, HTML, CSS, JavaScript, SQL","Angular, React, Next js","Python Django, Spring",SQL,HTTPD
+Project 19,"Machine learning, Linear and Logistic Regression","React, Angular","Python Django, Java Spring",,
+Project 20,"AWS, Node JS, Aurora DB, React, Python, TypeScript, JavaScript, CICD pipelines, ECS containers and topics",React,"Python, Node.js",Aurora DB,"AWS, ECS containers"
+Project 21,"Django, Elasticview",React,Django,Not mentioned,Not mentioned
+Project 22,"Third Party APIs, Encryption and Decryption Algorithms","Angular, React, Next.js","Node.js, Express",Not Mentioned,Not Mentioned
+Project 23,"Java, React/TypeScript","React, Next JS, Google Auth",Java Spring Framework,Not Specified,Not Specified
+Project 24,"Java, Python, SQL, MongoDB, Mongoose, Passport, React and Express","React JS (Beginner level, Self-rated 7/10)","Java, Python, SQL (Self-rated 7/10)","MongoDB, SQL",No information provided
+Project 25,"API, Event-based system",Reactjs,"Node JS, TypeScript, JavaScript",Postgre SQL,Flutter
+Project 26,"React, React Native","React, React Native","Not experienced, but a quick learner",Not mentioned,Not mentioned
+Project 27,"Fitbit API, Isolation Forest Algorithm, Email Service",React,"Express, JavaScript",Not Mentioned,Not Mentioned
+Project 28,"Node JS, Puppeteer","JavaScript, React, Angular","Node JS, Express, Python, Django",,AWS
+Project 29,"Java, PostgreSQL",React,Java,PostgreSQL,Not Mentioned
+Project 30,"React JS, Node JS, Express JS, MongoDB","HTML, CSS, JavaScript, jQuery","PHP Codeigniter, Django",MongoDB,Not specified
+Project 31,"Python Django, Flask, Spring Boot",ReactJS,"Python Django, Flask, Spring Boot",,
+Project 32,"Node JS, JavaScript","Angular, React, Next js","Node.js, Python Django",Postman,
+Project 33,"Machine Learning, Random Forest, Extra Trees Regressor, Light Gradient Boosting",React JS,"Node JS, Express JS",Not mentioned,Not mentioned
+Project 34,"CA framework, Python APIs, React",React,"Python, Node.js",Not mentioned,Not mentioned
+Project 35,"Node JS, TypeScript, MongoDB",Not Specified,Node JS,MongoDB,Not Specified
+Project 36,"Java, Retrofit, MVC pattern",React Native,Java,Not mentioned,Not mentioned
+Project 37,"Multicast graded CNN model, Hybrid recommender system",Not mentioned,Back-end frameworks and APIs,Not mentioned,Not mentioned
+Project 38,"Java, JavaScript, Android app development, Firebase, Node.js, MongoDB, Postman","React, HTML, CSS",Node.js,"MongoDB, Firebase",Firebase
+Project 39,"React JS, Node JS, HTML, CSS, JavaScript, EJS","React JS, HTML, CSS, JavaScript, EJS",Node JS,Not Mentioned,Not Mentioned
+Project 40,"Javascript, SQL, Report Labs, React, Python Django, Java, Spring Boot, MySQL","React, HTML, CSS, JavaScript","Python Django, Java, Spring Boot","MySQL, Sequel Lite",
+Project 41,"DuckDuckGo API, React Native, TypeScript",React Native,Prayat,Not mentioned,Not mentioned
+Project 42,"HTML, CSS, JavaScript, Tableau, Power BI, SQL, C++","HTML, CSS, JavaScript, React JS",None mentioned,SQL,None mentioned
+Project 43,"Decentralized anomaly detection system, machine learning, attention mechanism","Angular, React, Next js","Java, Spring Boot, JavaScript API",Not mentioned,Not mentioned
+Project 44,Azure APIs and SAS fulfillment APIs,,Azure APIs and SAS fulfillment APIs,SQL and NoSQL,
+Project 45,"Java, AWS DynamoDB",Learning React.js,Java,AWS DynamoDB,AWS
+Project 46,"HTML, CSS, JavaScript, React JS, Python Django, Express","HTML, CSS, JavaScript, React JS","Python Django, Express",Not mentioned,Not mentioned
+Project 47,"PHP, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL, Node JS, Express JS, MongoDB","Bootstrap, JavaScript, jQuery","PHP, Node.js, Express.js","MySQL, MongoDB",Not Mentioned
+Project 48,"Python, Django, HTML, CSS, JavaScript","Angular, React, Next js","Python Django, ASP.NET",,
+Project 49,"KN algorithm, Flutter, Dart, Firebase",React,Node.js,,
+Project 50,"React, Node.js, API development",React,Node.js,MongoDB,Not mentioned
+Project 51,"Machine Learning, Smart Analysis",Not Specified,Django,Not Specified,Not Specified
+Project 52,"React, Django",React,Django,Not mentioned,Not mentioned
+Project 53,"Angular, React, Next js, Python Django, Express JS","Angular, React, Next js","Python Django, Express JS",Not mentioned,Not mentioned
+Project 54,"MongoDB, Express JS, Node JS, Java","Angular, React, Next js","Python Django, Node.js",MongoDB,Not mentioned
+Project 55,Solidity,React.js,Node.js,MongoDB,Not provided
+Project 56,"NLTK library, Text BLOB and SVC",Not Mentioned,Python,Not Mentioned,Not Mentioned
+Project 57,"React Jsonschema, Material React Table, Promises, Batch Functions","React, CJS, Redux, HTML, CSS",Python,Unknown,"Messenger, Python, and machine learning"
+Project 58,"TypeScript, Node.js",Angular,Node.js,Not Mentioned,Not Mentioned
+Project 59,"React, Angular, Next.js, Python, Django, Flask, MongoDB, MySQL","React, Angular, Next.js","Python, Django, Flask","MongoDB, MySQL",Not Provided
+Project 60,"React, Python, SQL, Java, C",React,Python Flask,SQL,
+Project 61,"HTML, Form groups, S3 bucket","Angular, React, Next.js","Spring Boot, Django",MySQL,Engine X
+Project 62,"Python, Django, Django Rest Framework",No information provided,"Python, Django, Django Rest Framework",No information provided,No information provided
+Project 63,"Lambda, AWS, API gateway, React","React, Redux","Node.js, Python Django",Not mentioned,AWS
+Project 64,"Django, React, Alpha Vantage API",React,Python Django,Not mentioned,Not mentioned
+Project 65,"JavaScript, HTML, CSS, Google Fonts, React Icon, Responsiveness","React, TypeScript","Node, Express",Not Mentioned,Not Mentioned
+Project 66,Digital Marketing,"React, Angular",Node,Not Mentioned,Not Mentioned
+Project 67,"React, Next JS, Node JS, Express, SQLite, MongoDB, Prisma","React, Next JS","Node JS, Express","SQLite, MongoDB, Prisma",Not Mentioned
+Project 68,"Micro service architecture, Spring MVC, Spring Cloud",Interest in learning,"Java, Spring and Spring boot framework, REST APIs, micro services architecture",Hadoop ecosystem,Micro services architecture
+Project 69,"TypeScript, FCM token, Socket IO, Google Descriptive APIs, Natural Language Processing",Not specified,Python,Not specified,Not specified
+Project 70,"Python, AI, ML",React JS,"Django, Python",Not specified,Not specified
+Project 71,"Node JS, Express JS, MySQL, AWS, GitLab, Sonar, Swagger APIs",React,"Node.js, Express.js","MongoDB, MySQL",AWS
+Project 72,"React JS, Akka microservices, Postgres, MongoDB, Sequel","Angular JS, React","Scala, Akka, Play framework","Postgres, MongoDB",Not specified
+Project 73,"Amazon SQS, Kafka","Angular, React, Next js",Python Django,Unspecified,Docker
+Project 74,"Postman, JUnit, threads, Jenkins, Docker","Angular, React, Next js","Python Django, Spring Boot",,"Docker, Jenkins"
+Project 75,Cron job,React,Not specified,Not specified,Not specified
+Project 76,JavaScript,"JavaScript, React",JavaScript,Not Discussed,Not Discussed
+Project 77,"Django, Front-end and Back-end development",Basic knowledge,Basic knowledge,Not mentioned,Not mentioned
+Project 78,"ASP.NET, CSS, HTML, SQL Server","CSS, HTML, JavaScript, Ajax, Bootstrap",ASP.NET MVC,SQL Server,Not Mentioned
+Project 79,"Java, WS, AWS, Lambda Functions, Cloud Watch, MongoDB, Express, React, Node JS",ReactJS,"NodeJS, ExpressJS",MongoDB,AWS
+Project 80,"EF Core API, Angular, Azure",Angular JS,".Net, SQL",SQL,Azure
+Project 81,"Machine learning, Linear regression",Undetermined,"Python, FAST API",Undetermined,PyCharm
+Project 82,"JavaScript, External Libraries","Angular, React, Next js",Python,Not Mentioned,Not Mentioned
+Project 83,"Machine Learning, Cosine Similarity","React, HTML, CSS, JavaScript",,,
+Project 84,"React, Node, Express, MongoDB, PostgreSQL, Django, Python",React,"Node, Express, Django, Python","MongoDB, PostgreSQL",
+Project 85,"MongoDB, Angular, JavaScript, CSS, HTML, Python","Angular, React, Next.js","Python Django, Fast APIs, Notes",MongoDB,Not Mentioned
+Project 86,"C++, Java, AWS, Spring Framework, J Unit, Machine Learning, Linux, AOP","JavaScript, React JS, HTML, CSS","Node JS, Java, AWS, Spring Framework",Not mentioned,AWS
+Project 87,"Open AI, Machine Learning Models, Python Libraries for Audio Conversion and Prompt Engineering",4-5/10,"Python Django, 7-8/10",Not Mentioned,Not Mentioned
+Project 88,"Java, AWS Lambda",React,"Node.js, Express.js",MongoDB,AWS
+Project 89,"MongoDB, Node JS, JavaScript, JWT, React Native","Reactjs, React Native","Node.js, Express","MongoDB, PostgreSQL",Knowledge not specified
+Project 90,"Pega, Python Node JS, Theme Cosmos",Python Node JS,No prior experience with backend frameworks,Not mentioned,Not mentioned
+Project 91,"React, Next.js, Python Django, Node.js, Express.js","React, Next.js","Python Django, Node.js, Express.js",Unknown,Unknown
+Project 92,"Machine Learning, Front-end and Backend Frameworks, AWS",Unknown,Unknown,Unknown,AWS
+Project 93,"JavaScript, HTML, CSS, Bootstrap, Express JS, Node JS","React, Redux, HTML, JavaScript, CSS, Bootstrap","Express JS, Node JS",MongoDB,Not provided
+Project 94,"CSS, HTML, CSS, JavaScript, Python, MySQL","Angular, React, Next js",No Experience,MySQL,No Experience
+Project 95,"React JS, Redux, React Hooks","HTML, CSS, JavaScript, React JS","Node JS, C&C",Not provided,Not provided
+Project 96,"React JS, Node.js",React JS,Node.js (Learning),Not Mentioned,Not Mentioned
+Project 97,"Mongoose, React JS, Node JS",React JS,Node JS,Mongoose,Not Mentioned
+Project 98,"Open pose, MRCP CNN, Pandas, scikit learn, Python","HTML, JavaScript, jQuery, CSS","Python, Django","MySQL, MSSQL",Not Mentioned
+Project 99,"React.js, Redux, Schema UI, Config one UI, Live Swiggy API, Conflict one UI",React.js,Willing to learn,Good understanding of data structures and algorithms,Not Mentioned
+Project 100,Front-end and Back-end frameworks,7.5/10,08-Oct,Not Mentioned,Azure DevOps
